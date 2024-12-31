@@ -10,11 +10,9 @@
 <h3 align="left">I am a B.Tech student at KIIT University, graduating in 2025, with a passion for full-stack web development. I’ve gained expertise in HTML, CSS, JavaScript, Tailwind CSS, React, Node.js, Express.js, and MongoDB. I also have experience with WordPress tools like Elementor and WPBakery, along with knowledge of MySQL. Additionally, I am skilled in programming languages such as C, C++, Java, and Python. I’m driven to learn and build impactful web and software applications.</h3>
 <br/>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://GitHub.com/tusherbhakta](https://github.com/tusherbhakta?tab=repositories)
-
-- 
 
 - 💬 Ask me about **React, Node.js, Express.js, JavaScript, Java, Tailwind**
 
