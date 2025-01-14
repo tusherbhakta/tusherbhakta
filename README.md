@@ -79,3 +79,4 @@
 
 
 </div>
+<img width=100% title="Coder." alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=EAT-SLEEP-CODE-REPEAT&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
