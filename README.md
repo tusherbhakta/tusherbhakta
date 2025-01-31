@@ -56,8 +56,6 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusherbhakta&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusherbhakta&theme=vision_friendly_dark)
 
 ## 🏆 GitHub Trophies
