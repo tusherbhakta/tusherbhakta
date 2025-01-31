@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tusherbhakta&theme=neon-dark&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusherbhakta&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusherbhakta&theme=vision_friendly_dark)
 
